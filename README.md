@@ -4,6 +4,7 @@ This project involves the analysis of Zomato data for restaurants in Bangalore.
 The dataset is provided in an Excel file and contains information about various aspects of the restaurants, 
 such as their location, online ordering, table booking, ratings, cuisines, etc.
 
+
 🍄Project Structure
 
 zomato_analysis.ipynb: Jupyter Notebook containing the Python code for data analysis.
